@@ -13,10 +13,10 @@ else:
 cetak="""
 \t\t
 \t\t===================================
-\t\t            [#] Street Punk Indonesia [#]               
+\t\t         [#] Street Punk Indonesia [#]               
 \t\t     ~ We are Street Punk Cyber Team ~
 \t\t ~ We are family and we fight for justice ~
-\t\t                   ~ Dont Forget Us ! ~
+\t\t              ~ Dont Forget Us ! ~
 \t\t===================================
 """
 
